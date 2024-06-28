@@ -1,0 +1,22 @@
+{
+  "name": "create-expresss-nkk-app",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "@nikhilkumar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.4.5",
+    "inquirer": "^9.3.0"
+  },
+  "bin": {
+    "create-express-nkk-app": "./index.js"
+  }
+}
