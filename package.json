@@ -17,6 +17,6 @@
     "inquirer": "^9.3.0"
   },
   "bin": {
-    "create-express-nkk-app": "./index.js"
+    "create-express-nkk-app": "index.js"
   }
 }
