@@ -168,7 +168,7 @@ const createApp = async () => {
         },
         "devDependencies": {
             ${devDependecies.join(",")}
-        },
+        }
     }`;
 
     fs.writeFileSync(`${projectDir}/package.json`, packageJsonContent);
